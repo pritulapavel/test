@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "847999086466",
+    "firebase_url": "https://testtaripebi.firebaseio.com",
+    "project_id": "testtaripebi",
+    "storage_bucket": "testtaripebi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847999086466:android:d201f0f8a282e698",
+        "android_client_info": {
+          "package_name": "com.test_taripebi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847999086466-a8kut09ds63v30auc3tc24j83rqmbh8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMEQclNhRVhxjB-06GqJgED8fOYMzzTQ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

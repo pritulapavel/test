@@ -1,0 +1,8 @@
+{
+  "name": "fucking_test_2",
+  "app_id": "dcd7eb00",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
